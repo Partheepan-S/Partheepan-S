@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&width=700&lines=Hi%2C+I'm+Partheepan+%F0%9F%91%8B;Network+%26+Security+Student;Future+Security+Engineer;Learning+Linux+%7C+SOC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&width=750&lines=Hi%2C+I'm+Partheepan+%F0%9F%91%8B;Network+%26+Security+Student;SOC+%7C+Security+Engineering;DevSecOps+Learner;Building+Labs+for+Real+World+Jobs)](https://git.io/typing-svg)
 # Hi, I'm Partheepan 👋
 
 🎓 Network & Security Student  
