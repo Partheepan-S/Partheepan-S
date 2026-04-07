@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Partheepan 👋
+
+🎓 Networking & Cybersecurity Student  
+🛡️ Interested in SOC, Security Engineering, and DevSecOps  
+🐧 Linux | Wireshark | Nmap | Packet Tracer | AWS  
+📚 Currently studying networking and security fundamentals  
+🚀 Building labs and GitHub writeups for internships and jobs
 
 <!--
 **Partheepan-S/Partheepan-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
