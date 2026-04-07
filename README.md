@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&width=700&lines=Hi%2C+I'm+Partheepan+%F0%9F%91%8B;Networking+%26+Cybersecurity+Student;Future+Security+Engineer;Learning+Linux+%7C+SOC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&width=700&lines=Hi%2C+I'm+Partheepan+%F0%9F%91%8B;Network+%26+Security+Student;Future+Security+Engineer;Learning+Linux+%7C+SOC)](https://git.io/typing-svg)
 # Hi, I'm Partheepan 👋
 
-🎓 Networking & Security Student  
+🎓 Network & Security Student  
 🛡️ Interested in SOC, Security Engineering, and DevSecOps  
 🐧 Linux | Wireshark | Nmap | Packet Tracer | AWS  
 📚 Currently studying networking and security fundamentals  
