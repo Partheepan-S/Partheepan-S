@@ -1,6 +1,6 @@
 # Hi, I'm Partheepan 👋
 
-🎓 Networking & Cybersecurity Student  
+🎓 Networking & Security Student  
 🛡️ Interested in SOC, Security Engineering, and DevSecOps  
 🐧 Linux | Wireshark | Nmap | Packet Tracer | AWS  
 📚 Currently studying networking and security fundamentals  
